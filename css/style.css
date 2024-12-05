@@ -1,0 +1,56 @@
+body{
+    /* background-image:linear-gradient(rgba(247, 192, 90, 0.123),rgba(255, 131, 131, 0.804)), url(../images/work-2.jpg); */
+    background-image:linear-gradient(rgba(241, 54, 94, 0.619),rgba(255, 131, 131, 0.011));
+
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+.login{
+    
+text-align: center;
+    
+line-height: 2;
+    
+box-shadow: inset;
+}
+button{
+    background-image: linear-gradient(to right,#F7595C,#F35588);
+    border: #F7595C;
+    color: #fff;
+    font-size: 20px;
+}
+button:hover{
+    background-image: linear-gradient(to right,#F35588,#F35588);
+
+}
+h1{
+    background: linear-gradient(to right,#F7595C,#F35588);
+    background: -webkit-linear-gradient(#F7595C,F35588);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.form-control{
+    border: #0f0fea38 1px solid;
+}
+a{
+    text-decoration: none;
+    color: #F7595C;
+}
+/* .welcome h1{
+    padding-left: 110px;
+} */
+ .log-out{
+    margin-left: auto;
+} 
+
+.sign-link{
+    margin-left: auto;
+}
+.sign-req{
+    margin-left: 90px;
+}
+.success{
+    margin-left: 150px
+    
+}
